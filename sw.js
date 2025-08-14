@@ -1,4 +1,4 @@
-const GAME_NAME = "grean";
+const GAME_NAME = "get the grean things";
 const GAME_VERSION = "1.0.0.0";
 
 const CACHE_NAME = JSON.stringify({"name": GAME_NAME, "version": GAME_VERSION});
